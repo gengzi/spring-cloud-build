@@ -12,7 +12,7 @@
 		Cloud projects
 	</description>
 	<modules>
-		<module>docs</module>
+<!--		<module>docs</module>-->
 		<module>spring-cloud-build-dependencies</module>
 		<module>spring-cloud-dependencies-parent</module>
 		<module>spring-cloud-build-tools</module>
